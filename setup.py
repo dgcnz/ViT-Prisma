@@ -16,7 +16,7 @@ install_requires = [
     'line_profiler',
     'matplotlib',
     'wandb',
-    'kaleido',
+    'kaleido==0.2.1',
     'open-clip-torch',
 ]
 
